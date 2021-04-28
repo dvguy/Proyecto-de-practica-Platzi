@@ -1,16 +1,22 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: rgb(241, 241, 234);
+    background-color: rgb(255, 255, 255);
 }
 
+.cabecera{
+    background-color: rgb(200, 218, 252);
+    border: 2px solid rgb(243, 160, 177);
+    color: rgb(228, 82, 131);
+    font-size: 3rem;
+}
 .container{
     width: 80%;
     margin: 0 auto;
 }
 
 .post{
-    border: 1px solid crimson;
+    border: 2px solid rgb(241, 105, 230);
     color: rgba(109, 124, 139, 0.876);
     font-family: 1rem;
     width: 100%;
