@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(241, 241, 234);
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.post{
+    border: 1px solid crimson;
+    color: rgba(109, 124, 139, 0.876);
+    font-family: 1rem;
+    width: 100%;
+}
