@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(66, 64, 64);
+    background-color: rgb(190, 181, 181);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
@@ -36,6 +36,8 @@ img{
     border: 2px solid rgb(241, 105, 230);
     color: rgba(109, 124, 139, 0.876);
     font-family: 1rem;
+    padding-top: 1%;
+
     width: 100%;
 }
 
@@ -44,5 +46,7 @@ img{
     border: 2px solid rgb(241, 105, 230);
     color: rgba(109, 124, 139, 0.876);
     font-size: 0.95rem;
+    padding-top: 1%;
+    padding-bottom: 1%;
     width: 100%
 }
