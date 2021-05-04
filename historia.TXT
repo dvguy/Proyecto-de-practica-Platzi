@@ -1,11 +1,3 @@
 Me llamo Fernando Santoyo y vivo en Monterrey
 
-Master 1
-Master intermedio   
-Master 2
-Master 2
-
-Master 3
-
-experimento 1
-Master 2
+Se limpia la historia
