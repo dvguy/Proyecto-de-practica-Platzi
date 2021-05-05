@@ -10,5 +10,10 @@ Este curso es de práctica, así como este Readme. Simula un blog que hace consu
 * Trucos del profesor
 * Usar Github pages
 * Hecho con esfuerzo por Fernando
+<<<<<<< HEAD
+=======
+* Se usa Linux, Windows y Mac
+* Disponibles en todas las edades
+>>>>>>> readme_mejorado
 
 Este readme **es solo una práctica**. Diseñado para el ejemplo. 🤖
