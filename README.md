@@ -9,5 +9,6 @@ Este curso es de práctica, así como este Readme. Simula un blog que hace consu
 * El veradero uso de las buenas prácticas
 * Trucos del profesor
 * Usar Github pages
+* Hecho con esfuerzo por Fernando
 
 Este readme **es solo una práctica**. Diseñado para el ejemplo. 🤖
