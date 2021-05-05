@@ -11,5 +11,6 @@ Este curso es de práctica, así como este Readme. Simula un blog que hace consu
 * Usar Github pages
 * Hecho con esfuerzo por Fernando
 * Se usa Linux, Windows y Mac
+* Disponibles en todas las edades
 
 Este readme **es solo una práctica**. Diseñado para el ejemplo. 🤖
